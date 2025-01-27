@@ -28,7 +28,12 @@ The background consists of 3 separate layers made by me on pixilart.com. These l
 
 I intended to use something other than the default icon for the player at some point, with the Godot icon being a placeholder. However, because the game is meant to show proficiency with Godot, the unique shape of the icon allows the player to roll around on a planet's surface, and because it is cute, I decided to leave it in for the final version
 
-## Credit
+## Notes
+In order to play the game, please unzip Space Engine.zip, and you can look at the code by dragging every other file into a folder and making opening that folder as a godot project.
+This game is only playable on windows at the moment, as I am currently unaware about how to export to web or mac at this time.
+I intended on making a larger game for this application, but I was unable to because I was extremely sick on Monday and Tuesday
+
+## Credits
 All code, background, and particle effects by me.
 Godot icon by Godot
 Planet pictures are from https://nineplanets.org/
