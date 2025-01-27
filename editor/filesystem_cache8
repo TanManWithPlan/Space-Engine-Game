@@ -1,0 +1,26 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1737951216
+export_presets.cfg::TextFile::-1::1737951115::0::1::::<><>::
+FPS Counter.gd::GDScript::-1::1737760515::0::1::::<>Label<>::
+Planet_Placeholder.png::CompressedTexture2D::4749333414577269102::1737324142::1737324142::1::::<><>::
+world.gd::GDScript::-1::1737950513::0::1::::<>Node2D<>::
+world.tscn::PackedScene::5407551267254236266::1737950700::0::1::::<><>::uid://chnven2w5ii8b::::res://Scenes/rocket.tscn<>res://world.gd<>uid://b3bacjkyp578f::::res://Scenes/parallax_background.tscn<>uid://bvhm5ixxvyp7m::::res://Graphics/icon.svg
+::res://Graphics/::1737946344
+Arrow.png::CompressedTexture2D::7059046248519446507::1737681256::1737946344::1::::<><>::
+icon.svg::CompressedTexture2D::3875619678891886264::1737243511::1737937045::1::::<><>::
+::res://Graphics/Planets/::1737944314
+Earth.png::CompressedTexture2D::3562824862482289080::1737943672::1737943678::1::::<><>::
+Mars.png::CompressedTexture2D::5655277498797916201::1737943672::1737943682::1::::<><>::
+Mercury.png::CompressedTexture2D::8588066873450307174::1737943672::1737943682::1::::<><>::
+Neptune.png::CompressedTexture2D::1898710125385947211::1737944310::1737944314::1::::<><>::
+::res://Graphics/Space Backgroumd/::1737681213
+Far Stars.png::CompressedTexture2D::1008882357115971540::1737674230::1737681213::1::::<><>::
+Near Stars.png::CompressedTexture2D::1484981961609604915::1737674114::1737681213::1::::<><>::
+Space.png::CompressedTexture2D::6881411387425571179::1737673163::1737681213::1::::<><>::
+::res://Scenes/::1737951202
+background.tscn::PackedScene::6155280713620345810::1737933241::0::1::::<><>::
+parallax_background.tscn::PackedScene::4353776744169785287::1737950700::0::1::::<><>::uid://c5bn3th2sx8k2::::res://Graphics/Space Backgroumd/Space.png<>uid://omye6v7ks44w::::res://Graphics/Space Backgroumd/Far Stars.png<>uid://vflo27srt0db::::res://Graphics/Space Backgroumd/Near Stars.png
+planet.tscn::PackedScene::5185180805236542951::1737951202::0::1::::<><>::uid://2b0qi8p2kr8f::::res://Graphics/Planets/Neptune.png<>uid://c7tppwgr0q3nr::::res://Graphics/Arrow.png
+rocket.tscn::PackedScene::5292283109232186531::1737950700::0::1::::<><>::uid://bvhm5ixxvyp7m::::res://Graphics/icon.svg<>uid://difnqvnqtc1qd::::res://Scenes/rocket_particles.tscn<>res://FPS Counter.gd
+rocket_particles.tscn::PackedScene::7731913706387580299::1737323961::0::1::::<><>::
+test_ball.tscn::PackedScene::6024998739407097427::1737403580::0::1::::<><>::uid://b8wu3esfu87ag::::res://Planet_Placeholder.png

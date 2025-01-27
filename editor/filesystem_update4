@@ -1,0 +1,5 @@
+res://Scenes/planet.tscn
+res://world.tscn
+res://Scenes/rocket.tscn
+res://Scenes/parallax_background.tscn
+res://world.gd

@@ -1,0 +1,13 @@
+CollisionShape2D
+Area2D
+Node2D
+Sprite2D
+StaticBody2D
+Label
+TextureRect
+ParallaxLayer
+ParallaxBackground
+RigidBody2D
+Camera2D
+CPUParticles2D
+CharacterBody2D
