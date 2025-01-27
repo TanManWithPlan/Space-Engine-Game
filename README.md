@@ -31,7 +31,8 @@ I intended to use something other than the default icon for the player at some p
 ## Notes
 In order to play the game, please unzip Space Engine.zip, and you can look at the code by dragging every other file into a folder and making opening that folder as a godot project.
 This game is only playable on windows at the moment, as I am currently unaware about how to export to web or mac at this time.
-I intended on making a larger game for this application, but I was unable to because I was extremely sick on Monday and Tuesday
+Made for the DALI Lab 3D Development Application Challenge.
+I intended on making a larger game for this application, but I was unable to because I was extremely sick on Monday and Tuesday.
 
 ## Credits
 All code, background, and particle effects by me.
